@@ -1,0 +1,29 @@
+.account {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.all {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 5px solid #ccc;
+    border-radius: 5px;
+}
+
+.basic-details {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.report {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
